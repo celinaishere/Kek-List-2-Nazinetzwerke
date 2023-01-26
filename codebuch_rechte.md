@@ -2,6 +2,9 @@
 Codebuch Stand 2023-01
 erstellt von Florian Frankenhuis (ff059@hdm-stuttgart.de)
 
+## Projektmanagement 
+Da wir gerade noch am Anfang unserer Recherchearbeit stehen und unser Forschungsfeld zunächst eingrenzen müssen (bzgl. der zu untersuchenden Länder) können wir in der Aufgabendistribution noch keine Aussagen treffen. 
+
 ## Inhalt
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
@@ -10,7 +13,6 @@ erstellt von Florian Frankenhuis (ff059@hdm-stuttgart.de)
 ## Ursprung und Datenerhebung
 
 Das Netzwerk soll die Vernetzung der rechten Parteien innerhalb der EU darstellen.
-
 
 
 # EDGE-Attribute

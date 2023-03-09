@@ -29,7 +29,8 @@ Sector: In welchem Bereich die Personen tätig sind (außerhalb ihrer Beteiligun
 party: Parteizugehörigkeit (auf nationaler Ebene)				
 afd	Alternative für Deutschland			
 fpö	Freiheitliche Partei Österreichs			
-rn	Rassemblement National			
+rn	Rassemblement National	
+ja      Junge Alternative
 				
 role: Art der Beteiligung				
 1: Gründer von der ganzen IB auf nationaler Ebene (heute noch aktiv)				
@@ -54,7 +55,7 @@ relation: Beziehungsart
 1: Interaktion: Definierung über Weight				
 2: Finanzielle Unterstützung				
 3: Mitglied der Partei				
-4: Förderung (Beschaffung von Arbeitsplätzen)				
+4: Förderung (Beschaffung von Arbeitsplätzen & Bereitstellung von Räumen)				
 5: Anwesenheit				
 				
 				

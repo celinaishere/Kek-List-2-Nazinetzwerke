@@ -1,0 +1,113 @@
+id,name,sector ,party,party 2,role ,country,ereignis,partei,Teil der IB
+de,Aktion Defend Europe,,,,,,ja,nein,nein
+fav,Aurélien Verhassel,5,,,3,französisch,nein,nein,nein
+fcl,Christelle Lechevalier,1,rn,,4,französisch,nein,nein,nein
+fsg,Sylvie Goddyn,1,rn,,4,französisch,nein,nein,nein
+fnb,Nicolas Bay,1,rn,,4,französisch,nein,nein,nein
+fnc,Nicolas Crochet,6,,,4,französisch,nein,nein,nein
+ffc,Frederic Chatillon,6,rn,,4,französisch,nein,nein,nein
+fmmlp,Marion Marechal Le Pen,2,rn,,4,französisch,nein,nein,nein
+fre,Romain Espino,5,,,2,französisch,nein,nein,nein
+fmlp,Marine Le Pen,2,rn,,5,französisch,nein,nein,nein
+fsc,Sebastian Chenu,2,rn,,4,französisch,nein,nein,nein
+fpe,Phillipe Eymery,3,rn,,6,französisch,nein,nein,nein
+fpl,Pierre Larti ,5,,,3,französisch,nein,nein,nein
+frm,Remi Meurin ,3,rn,,3,französisch,nein,nein,nein
+citadelle,"Bar ""La Citadelle""",,,,,französisch,ja,nein,nein
+fdl,Damien Lefèvre ,5,,,3,französisch,nein,nein,nein
+fjb,Jordan Bardella,2,rn,,5,französisch,nein,nein,nein
+fcg,Clément Gandelin,5,,,2,französisch,nein,nein,nein
+fpv,Philippe Vardon,3,rn,,3,französisch,nein,nein,nein
+fpo,Phillippe Olivier,1,rn,,5,französisch,nein,nein,nein
+fecd,Eric Cattelin-Denu,3,rn,,6,französisch,nein,nein,nein
+frf,Remi Falize,5,,,3,französisch,nein,nein,nein
+fate,Anne-Thaïs du Tertre d'Escoeuffant,,,,3,französisch,nein,nein,nein
+ffs,Flora Salacroup,,rn,,3,französisch,nein,nein,nein
+fjp,Jérémie Piano,,rn,,2,französisch,nein,nein,nein
+fsr,Stéphane Ravier,,rn,,5,französisch,nein,nein,nein
+fgb,Gaétan Bertrand,,rn,,3,französisch,nein,nein,nein
+fgc,Gilbert Collard,1,rn,,3,französisch,nein,nein,nein
+fclg,Clément Galant,,,,2,französisch,nein,nein,nein
+fgp,Guillaume Pradoura,,,,3,französisch,nein,nein,nein
+gi,Generation Identitaire,,,,,französisch,nein,nein,ja
+rn,Resemblement National,,,,,,nein,ja,nein
+oms,Martin Sellner,4,,,1,österreichisch,nein,nein,nein
+oph,Philipp Huemer,4,,,1,österreichisch,nein,nein,nein
+obc,Bernadette Conrads,3,fpö,,4,österreichisch ,nein,nein,nein
+orf,Rudi Federspiel,3,fpö,,4,österreichisch,nein,nein,nein
+owg,Wolfgang Grabmayr,3,fpö,,6,österreichisch,nein,nein,nein
+oah,Alexander Höferl,2,fpö,,5,österreichisch,nein,nein,nein
+ojk,Jürgen-Michael Kleppich ,2,fpö,,5,österreichisch,nein,nein,nein
+obk,Beate Hartinger-Klein,2,fpö,,6,österreichisch,nein,nein,nein
+oak,Axel Kassegger,2,fpö,,6,österreichisch,nein,nein,nein
+odk,Dominic Keuschnig,3,fpö,,6,österreichisch,nein,nein,nein
+omss,Mario S.,3,fpö,,3,österreichisch,nein,nein,nein
+okk,Karin Kneissl,2,fpö,,6,österreichisch,nein,nein,nein
+ogk,Gerhard Kurzmann,3,fpö,,4,österreichisch,nein,nein,nein
+ojp,Jan Kevin Pawlik,3,fpö,,4,österreichisch,nein,nein,nein
+ocp,Christian Pewny,2,fpö,,6,österreichisch,nein,nein,nein
+oup,Ulrich Püschel,3,fpö,,4,österreichisch ,nein,nein,nein
+orr,Reinhard Rebhandl,3,fpö,,5,österreichisch,nein,nein,nein
+omms,Michael Schnedlitz,2,fpö,,4,österreichisch,nein,nein,nein
+ohs,Heinrich Sickl,3,fpö,,4,österreichisch,nein,nein,nein
+ohps,Heinz Peter Stanko,2,fpö,,5,österreichisch,nein,nein,nein
+okw,Katharina Walter,3,fpö,,4,österreichisch,nein,nein,nein
+osw,Siegfried Waschnig,2,fpö,,4,österreichisch,nein,nein,nein
+oww,Werner Wassicek,3,fpö,,4,österreichisch,nein,nein,nein
+oswa,Sabine Wassicek,3,fpö,,4,österreichisch,nein,nein,nein
+owz,Wolfgang Zanger,2,fpö,,4,österreichisch,nein,nein,nein
+oml,Michael Ley,4,,,4,österreichisch,nein,nein,nein
+ome,Mario Eustacchio,3,fpö,,4,österreichisch,nein,nein,nein
+ohk,Herbert Kickl,2,fpö,,4,österreichisch,nein,nein,nein
+oam,Alexander Markovics,4,,,3,österreichisch,nein,nein,nein
+omh,Markus Hein,3,fpö,,4,österreichisch,nein,nein,nein
+dib,Identitäre Bewegung Deutschland,,,,,Deutschland,nein,nein,ja
+oib,Identitäre Bewegung Österreich,,,,,österreichisch,nein,nein,ja
+ofpö,Freiheitliche Partei Deutschland,,fpö,,,österreichisch,nein,ja,nein
+omk,Mario Kunasek,2,fpö,,4,österreichisch,nein,nein,nein
+ogd,Gernot Darmann,3,fpö,,4,österreichisch,nein,nein,nein
+ovek,Verteidiger Europas Kongress,,,,,österreichsich ,ja,nein,nein
+owa,Walter Asperl,3,fpö,,4,österreichsich ,nein,nein,nein
+dal,Andreas Lichert,3,afd,,6,Deutschland,nein,nein,nein
+dat,Alexander Tassis,3,afd,,5,Deutschland,nein,nein,nein
+ddm,Dubravko Mandic,3,afd,,4,Deutschland,nein,nein,nein
+dfk,Felix Koschkar,3,afd,ja,4,Deutschland,nein,nein,nein
+dha,Holger Arppe,3,afd,,4,Deutschland,nein,nein,nein
+dhms,Hildburg Mayer-Sande,3,afd,,3,Deutschland,nein,nein,nein
+dht,Hans-Thomas Tillschneider,3,afd,,4,Deutschland,nein,nein,nein
+djob,Joel Bußmann,3,afd,,4,Deutschland,nein,nein,nein
+djab,Jannik Brämer,3,afd,,4,Deutschland,nein,nein,nein
+djg,Jonas Grundhoff,3,afd,,3,Deutschland,nein,nein,nein
+djh,John Hoewer,3,afd,,3,Deutschland,nein,nein,nein
+djs,Jörg Sobolewski,3,afd,,4,Deutschland,nein,nein,nein
+djws,Jan Wenzel-Schmidt,2,afd,ja,6,Deutschland,nein,nein,nein
+dls,Lars Steinke,3,afd,ja,4,Deutschland,nein,nein,nein
+dmtk,Marie-Therese Kaiser,3,afd,,5,Deutschland,nein,nein,nein
+dmme,Marvin Mergard,3,afd,,4,Deutschland,nein,nein,nein
+dpb,Peter Bystron,2,afd,,4,Deutschland,nein,nein,nein
+dpn,Philippe Navarre,3,afd,ja,4,Deutschland,nein,nein,nein
+drte,Robert Teske ,3,afd,ja,4,Deutschland,nein,nein,nein
+dyn,Yannick Noé,3,afd,,4,Deutschland,nein,nein,nein
+dsd,Siegbert Dröse,3,afd,,6,Deutschland,nein,nein,nein
+dmkr,Maximilian Krah,1,afd,,6,Deutschland,nein,nein,nein
+dag,Albert Glas,5,,,3,Deutschland,nein,nein,nein
+dam,Alex Malenki,5,,,3,Deutschland,nein,nein,nein
+dca,Chris Ares,5,,,3,Deutschland,nein,nein,nein
+ddf,Daniel Fiß,5,,,2,Deutschland,nein,nein,nein
+dfs,Falk Schakolat,5,,,3,Deutschland,nein,nein,nein
+dgk,Götz Kubitschek,4,,,3,Deutschland,nein,nein,nein
+dkn,Kai Naggert,5,,,3,Deutschland,nein,nein,nein
+dmcm,Marco Müller,5,,,3,Deutschland,nein,nein,nein
+dmk,Marius König,5,,,6,Deutschland,nein,nein,nein
+dmm,Mario Müller,5,,,3,Deutschland,nein,nein,nein
+dms,Melanie Schmitz,5,,,3,Deutschland,nein,nein,nein
+dna,Nils Altmieks,5,,,1,Deutschland,nein,nein,nein
+dpt,Philip Thaler,5,,,2,Deutschland,nein,nein,nein
+drti,Robert Timm,5,,,3,Deutschland,nein,nein,nein
+dds,Daniel Sebbin,5,,,2,Deutschland,nein,nein,nein
+dsk,Simon Kaupert,5,,,3,Deutschland,nein,nein,nein
+dtg,Torsten Görke,5,,,3,Deutschland,nein,nein,nein
+dtge,Tony Gerber,5,,,3,Deutschland,nein,nein,nein
+dtw,Till-Lucas Wessels,5,,,3,Deutschland,nein,nein,nein
+afd,Alternative für Deutschland,,,,,Deutschland,nein,ja,nein
+ja,Junge Alternative,,,,,Deutschland,nein,ja,nein

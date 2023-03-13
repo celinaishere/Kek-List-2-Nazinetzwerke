@@ -1,5 +1,5 @@
 id,name,sector ,party,party 2,role ,country,ereignis,partei,ib
-de,Aktion Defend Europe,,,,0,,ja,nein,nein
+de,Aktion Defend Europe,,,,0,europäisch,ja,nein,nein
 fav,Aurélien Verhassel,5,,,3,französisch,nein,nein,nein
 fcl,Christelle Lechevalier,1,rn,,4,französisch,nein,nein,nein
 fsg,Sylvie Goddyn,1,rn,,4,französisch,nein,nein,nein
@@ -30,7 +30,7 @@ fgc,Gilbert Collard,1,rn,,3,französisch,nein,nein,nein
 fclg,Clément Galant,,,,2,französisch,nein,nein,nein
 fgp,Guillaume Pradoura,,,,3,französisch,nein,nein,nein
 gi,Generation Identitaire,,,,0,französisch,nein,nein,ja
-rn,Resemblement National,,,,0,,nein,ja,nein
+rn,Resemblement National,,,,0,französisch,nein,ja,nein
 oms,Martin Sellner,4,,,1,österreichisch,nein,nein,nein
 oph,Philipp Huemer,4,,,1,österreichisch,nein,nein,nein
 obc,Bernadette Conrads,3,fpö,,4,österreichisch ,nein,nein,nein

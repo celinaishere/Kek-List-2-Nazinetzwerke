@@ -1,5 +1,6 @@
+id,name,sector,party,party 2,role,country,ereignis,partei,ib		
 afd,Alternative für Deutschland,0,k,,0,Deutschland,no,ja,nein
-citadelle,"Bar ""La Citadelle""",0,k,,0,französisch,yes,n,nein
+citadelle,"Bar La Citadelle",0,k,,0,französisch,yes,n,nein
 dag,Albert Glas,5,k,,3,Deutschland,no,n,nein
 dal,Andreas Lichert,3,afd,,6,Deutschland,no,n,nein
 dam,Alex Malenki,5,k,,3,Deutschland,no,n,nein

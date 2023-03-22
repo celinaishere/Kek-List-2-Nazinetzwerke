@@ -1,3 +1,4 @@
+from,to,relation,role
 dag,dib,3,6
 dal,dht,4,6
 dal,afd,3,6

@@ -97,7 +97,6 @@ fab,rn,3,6,nein
 fab,fsr,4,6,nein
 fate,fre,1,2,nein
 fate,ffs,1,2,nein
-fate,gi,3,6,nein
 fate,dea,5,6,ja
 fav,citadelle,5,6,nein
 fav,fsc,1,2,nein
@@ -167,7 +166,6 @@ fpv,rn,3,6,nein
 frc,gi,3,6,nein
 frc,rn,3,6,nein
 fre,ffs,1,2,nein
-fre,gi,3,6,nein
 fre,dea,5,6,ja
 frf,gi,3,6,nein
 frm,gi,3,6,nein

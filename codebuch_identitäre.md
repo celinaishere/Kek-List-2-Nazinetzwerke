@@ -50,7 +50,6 @@ country: Nationalität
 				
 Ereignis: Demonstration/Versammlung ausschließlich von der Identitären organisiert (nur für den Ort, ab 4/5 Personen)
 Orga: Identitäre Bewegung
-Partei: Freiheitliche Partei Deutschlands (FPÖ)
 				
 				
 # Edge-Attribute			
@@ -72,3 +71,8 @@ weight: Beziehungsstärke
 4: Oberflächliche Beziehung (einmalige Interaktion, im realen Leben (z.B. Foto, mündl. Verteidigung von IB-Mitgliedern), auf Social Media (z.B. Tweet, einmaliger (Re-)Post, schriftl. Verteidigung von IB-Mitgliedern)				
 5: Spendenverhätnis				
 6: Keine Beziehung	
+
+international: Ebene der Verbindung
+ja: internationale Ebene
+nein: nationale/regionale Ebene
+
